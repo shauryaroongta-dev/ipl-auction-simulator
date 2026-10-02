@@ -21,6 +21,20 @@ This project was originally developed as my Class 12 Computer Science project. T
 - Team rankings based on average player rating
 - Input and budget validation
 
+## 📸 Demo
+
+### Auction Setup
+![Auction Setup](screenshots/auction-start.png)
+
+### Competitive Bot Bidding
+![Bot Bidding](screenshots/bot-bidding.png)
+
+### Final Team Results
+![Final Results](screenshots/final-results.png)
+
+### Auction History
+![Auction History](screenshots/auction-history.png)
+
 ## Bot bidding logic
 
 The bots use heuristic decision rules rather than machine learning. Their decisions consider:
